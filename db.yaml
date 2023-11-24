@@ -1,0 +1,10 @@
+mysql_host: 'localhost'
+mysql_user: 'root'
+mysql_password: 'anu12345'
+mysql_db: 'portfolio'
+secret_key: 'portnepseokay123'
+
+mysql_host_server: 'sql12.freemysqlhosting.net'
+mysql_user_server: 'sql12660804'
+mysql_password_server: 'trLFEc9ECX'
+mysql_db_server: 'sql12660804'
